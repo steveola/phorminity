@@ -1,2 +1,2 @@
 # phorminity
-A simple PHP framework for building form base application
+A light-weight PHP framework for building form base application
